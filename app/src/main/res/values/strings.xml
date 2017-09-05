@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstKotlin</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="root_text">ここがルート</string>
+    <string name="first_text">1ページ目</string>
+    <string name="second_text">2ページ目</string>
+    <string name="third_text">サードアイ</string>
+</resources>
